@@ -354,5 +354,9 @@ Pour toute question ou problème, veuillez ouvrir une issue sur le dépôt du pr
 
 ---
 
-**Bonnes analyses bibliométriques! 🚢📊**
+## 📺 Démonstration Vidéo
+
+Vous pouvez visionner ou télécharger la vidéo complète de démonstration de l'application (465 Mo) en cliquant sur le lien ci-dessous :
+
+[📥 Télécharger / Voir la vidéo de démonstration](https://github.com/Manal-Elagri/Application-d-Analyse-Bibliometrique---Smart-Maritime-Ports/releases/download/v1.0.0/Smart_Maritime_Port.mp4)
 
